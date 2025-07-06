@@ -5,8 +5,3 @@
 # Privy iOS SDK
 
 The Privy Swift SDK is a Swift library client for Privy that allows you to add secure authentication, non-custodial embedded wallets, and powerful user management into your iOS application.
-
-## Usage
-
-See Privy's [iOS SDK guide](https://docs.privy.io/guide/guides/swift-sdk) for
-setup and usage.
